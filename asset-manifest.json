@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.884d55aa.chunk.css",
+    "main.js": "/portfolio/static/js/main.15a06aa7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.15a06aa7.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.2136cae6.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.2136cae6.js.map",
+    "static/css/2.b71989ea.chunk.css": "/portfolio/static/css/2.b71989ea.chunk.css",
+    "static/js/2.ea88a379.chunk.js": "/portfolio/static/js/2.ea88a379.chunk.js",
+    "static/js/2.ea88a379.chunk.js.map": "/portfolio/static/js/2.ea88a379.chunk.js.map",
+    "static/js/3.4ee5c9ad.chunk.js": "/portfolio/static/js/3.4ee5c9ad.chunk.js",
+    "static/js/3.4ee5c9ad.chunk.js.map": "/portfolio/static/js/3.4ee5c9ad.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.7af19020967aac237a6e2f849cfc00d9.js": "/portfolio/precache-manifest.7af19020967aac237a6e2f849cfc00d9.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.b71989ea.chunk.css.map": "/portfolio/static/css/2.b71989ea.chunk.css.map",
+    "static/css/main.884d55aa.chunk.css.map": "/portfolio/static/css/main.884d55aa.chunk.css.map",
+    "static/js/2.ea88a379.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ea88a379.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/portfolio/static/media/About_page.717e70c0.jpg",
+    "static/media/Contact_page.jpg": "/portfolio/static/media/Contact_page.57f90754.jpg",
+    "static/media/Home_page.jpg": "/portfolio/static/media/Home_page.18e270e2.jpg",
+    "static/media/about-button.svg": "/portfolio/static/media/about-button.7ccdb1bd.svg",
+    "static/media/brand-logo.jpg": "/portfolio/static/media/brand-logo.e8264e51.jpg",
+    "static/media/facebook-icon.svg": "/portfolio/static/media/facebook-icon.c595cbd5.svg",
+    "static/media/instagram-icon.svg": "/portfolio/static/media/instagram-icon.ac296231.svg",
+    "static/media/project1.png": "/portfolio/static/media/project1.07edabf9.png",
+    "static/media/project2.png": "/portfolio/static/media/project2.a7f8d86d.png",
+    "static/media/project3.png": "/portfolio/static/media/project3.20994235.png",
+    "static/media/Projects.css": "/portfolio/static/media/project_background.b154c4e4.jpg",
+    "static/media/projects-button.svg": "/portfolio/static/media/projects-button.7ccdb1bd.svg",
+    "static/media/tiktok-icon.svg": "/portfolio/static/media/tiktok-icon.176ab499.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2136cae6.js",
+    "static/css/2.b71989ea.chunk.css",
+    "static/js/2.ea88a379.chunk.js",
+    "static/css/main.884d55aa.chunk.css",
+    "static/js/main.15a06aa7.chunk.js"
+  ]
+}
